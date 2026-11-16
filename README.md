@@ -7,17 +7,22 @@ ver support
 
 **quest 1 [⚠️]**
 
-**quest 2 [✓]**                                                       Filmware:
+**quest 2 [✓]**                                                       
 
-**quest 3 [✓]**                                                     3594280027800610
-                                                                          to
-**quest 3S [✓]**                                                    4069240012300610       
+**quest 3 [✓]**                                                     
+                                                                          
+**quest 3S [✓]**                                                          
 
 **✓ = working**
 **⚠️ = maybe working**
 **❌ = not working**
 
 # IM NOT RESPONSEABLE FOR ANY BRICKS OR DAMAGE USE AT OWN RISK!
+
+*Filmware:
+3594280027800610
+to
+4069240012300610**
 
 *Credits:**
 *Fugu Makers**
